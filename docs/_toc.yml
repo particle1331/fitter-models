@@ -18,6 +18,11 @@ parts:
   - file: nb/nn/00-backprop
   - file: nb/dl/03-cnn
 
+- caption: Distributed ML
+  chapters:
+  - file: nb/ray/00-raycore
+  - file: nb/ray/01-ray-ai
+
 - caption: MLOps
   chapters:
   - file: nb/mlops/01-intro
